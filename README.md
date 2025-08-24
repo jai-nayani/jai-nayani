@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Building the Future of AI-Driven Software Engineering | Agentic AI Systems, LLM-Powered Development Tools, AI-First Architecture Patterns, Test-Driven Development with AI Assistance, Autonomous Code Generation, Intelligent Microservices, AI-Native Applications, Machine Learning Operations (MLOps), Context-Aware Computing, Human-AI Collaboration in Software Development, Scaling AI Products from V0 to Enterprise**
 
-- 📫 How to reach me **Let's collaborate! Open to exciting opportunities and meaningful conversations | 📧 adi.nayani1427@gmail.com | 💼 LinkedIn: linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0 | 📱 +1 (412) 224-9552**
+- 📫 How to reach me **Let's collaborate! Open to exciting opportunities and meaningful conversations | 📧 adi.nayani1427@gmail.com | 💼 LinkedIn: https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0 | 📱 +1 (412) 224-9552**
 
 - ⚡ Fun fact **I debug code faster than I debug my life decisions - and somehow both always lead to better solutions!**
 
