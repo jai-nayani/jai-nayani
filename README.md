@@ -200,12 +200,11 @@ Particularly interested in working with visionary founders and engineers on prod
 
 <div align="center">
 
-<a href="https://github.com/jai-nayani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jai-nayani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai-nayani&layout=compact&langs_count=8&theme=radical"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jai-nayani&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=jai-nayani&theme=radical" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jai-nayani&layout=compact&langs_count=8&theme=dark&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jai-nayani&theme=dark&hide_border=false)
 
 </div>
 
