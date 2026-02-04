@@ -196,20 +196,6 @@ Particularly interested in working with visionary founders and engineers on prod
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jai-nayani&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jai-nayani&layout=compact&langs_count=8&theme=dark&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jai-nayani&theme=dark&hide_border=false)
-
-</div>
-
----
-
 ## 💬 Ask Me About
 
 - 🤖 **Building the Future of AI-Driven Software Engineering**
