@@ -1,32 +1,256 @@
-<h1 align="center">Hi 👋, I'm Jai Adithya Ram Nayani</h1>
-<h3 align="center">Full-Stack Software Engineer & AI Enthusiast passionate about transforming innovative ideas into scalable, production-ready solutions. Experienced in architecting microservices ecosystems, building intelligent systems with cutting-edge ML/AI technologies, and contributing to impactful open source projects. Proficient in modern tech stacks including React, Spring Boot, Python, AWS, and emerging AI frameworks. Open to diverse software engineering opportunities while particularly excited about founding engineer roles in AI projects with unique, game-changing use cases—especially those at the V0 stage where I can shape products from conception to market impact. Let's build the future of technology together.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jai-nayani&label=Profile%20views&color=0e75b6&style=flat" alt="jai-nayani" /> </p>
+# 👋 Hi, I'm Jai Adithya Ram Nayani
 
-- 🔭 I’m currently working on **Neural Drive - An AI-Native File Management Ecosystem inspired by Iron Man's interface. Building an intelligent file system where every document, image, and data point becomes AI-aware and conversationally accessible. Users can interact with their entire digital workspace through natural language, create dynamic workflows through voice commands, and experience truly hands-free computing. This represents the first step toward creating fully agentic computer systems that understand, anticipate, and collaborate with users in real-time. The future of human-computer interaction starts here.**
+### AI/ML Engineer | GenAI Specialist | Enterprise AI Systems Architect
 
-- 🌱 I’m currently learning **Next-Gen Full-Stack Development & Advanced AI Systems | Next.js 15, React 19, Astro, SvelteKit, Bun, Vite 6, FastAPI, NestJS, Prisma ORM, tRPC, Supabase, PlanetScale, Vercel AI SDK, LangChain, LangGraph, CrewAI, AutoGen, Vector Databases (Pinecone, Chroma), RAG Architectures, OpenAI GPT-4 Turbo, Claude API, Anthropic SDK, Hugging Face Transformers, LlamaIndex, Streamlit, Gradio, Docker Compose, Kubernetes, Terraform, AWS CDK, Serverless Framework, Edge Computing, WebAssembly (WASM), Rust for Performance, Go for Microservices**
+**7+ years** building production-grade machine learning and Generative AI systems at scale  
+**Currently:** AI/ML Engineer at **Socure** | Transforming financial compliance with GenAI  
+**Expertise:** LLMs • RAG • LangChain • Vector Databases • MLOps • Cloud-Native AI
 
-- 👯 I’m looking to collaborate on **Groundbreaking AI projects that push the boundaries of what's possible - from intelligent automation systems and conversational AI platforms to next-generation developer tools and agentic computing solutions. Particularly interested in collaborating with visionary founders and engineers on V0 products that could redefine entire industries. Whether it's building the future of human-computer interaction, creating AI-powered productivity tools, or developing revolutionary fintech solutions, I'm excited to contribute my full-stack expertise and AI knowledge to projects that have the potential to change the world.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.jaiadithya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jainayani.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jai-nayani)
 
-- 🤝 I’m looking for help with **Connecting with like-minded engineers, innovative founders, and tech leaders who share the passion for building transformative software solutions. Always eager to learn from experienced developers in emerging technologies, gain insights on scaling products from V0 to enterprise level, and collaborate with teams working on cutting-edge projects. Whether it's code reviews, architectural discussions, startup mentorship, or simply exchanging ideas about the future of technology - I believe the best innovations come from collaborative minds working together.**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jai-nayani](https://github.com/jai-nayani)
+---
 
-- 💬 Ask me about **Building the Future of AI-Driven Software Engineering | Agentic AI Systems, LLM-Powered Development Tools, AI-First Architecture Patterns, Test-Driven Development with AI Assistance, Autonomous Code Generation, Intelligent Microservices, AI-Native Applications, Machine Learning Operations (MLOps), Context-Aware Computing, Human-AI Collaboration in Software Development, Scaling AI Products from V0 to Enterprise**
+## 🚀 Key Achievements & Impact
 
-- 📫 How to reach me **Let's collaborate! Open to exciting opportunities and meaningful conversations | 📧 adi.nayani1427@gmail.com | 💼 LinkedIn: https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0 | 📱 +1 (412) 224-9552**
+<div align="center">
 
-- ⚡ Fun fact **I debug code faster than I debug my life decisions - and somehow both always lead to better solutions!**
+**Delivering measurable business outcomes through enterprise GenAI systems**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🎯 **Reduced analyst escalations by 40%** and **cut case review times by 90%** through GenAI Explainability Engine at Socure
+- 🔍 **Built RAG-based Compliance Copilot** processing **1,000+ sanctions/PEP lists** with **96% retrieval accuracy** and **sub-200ms latency**
+- 💰 **Contributed to $15B+ in flagged claims annually** through ML models for healthcare payment integrity
+- ⚡ **Reduced inference costs by 50%** through LoRA/QLoRA fine-tuning on domain-specific datasets
+- 📊 **Improved data accuracy from 78% to 96%** across enterprise ETL pipelines processing **5B+ records monthly**
+- 🚀 **Enabled 42% prepay review migration** with **45% program value growth** in healthcare risk adjustment
+- 🎯 **Achieved 85% precision** in identifying KYC anomalies while **reducing false positives by 30%**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-nayani&show_icons=true&locale=en&layout=compact" alt="jai-nayani" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-nayani&" alt="jai-nayani" /></p>
+## 💼 Professional Experience
+
+### 🔷 **AI/ML Engineer** @ [Socure](https://www.socure.com/) | *July 2024 – Present*
+
+**Leading enterprise Generative AI initiatives for financial compliance and identity verification**
+
+- **Architected GenAI Explainability Engine** using LangChain and self-hosted LLMs (Llama 3), transforming fraud model risk scores into natural-language explanations for regulatory compliance
+- **Built RAG-based Global Watchlist Compliance Copilot** integrating vector search (Pinecone, pgvector) over 1,000+ sanctions/PEP lists, achieving **96% retrieval accuracy** and **sub-200ms query latency**
+- **Designed multi-agent orchestration** using LangGraph for complex compliance workflows with autonomous document retrieval and iterative reasoning
+- **Implemented LLM guardrails** with hallucination detection, output constraint enforcement, and factual grounding validation for auditability
+- **Applied LoRA fine-tuning** on Llama 3 using Hugging Face PEFT, reducing inference costs by 50% while improving entity extraction accuracy
+- **Established immutable audit logging** and evaluation pipelines achieving **94% analyst satisfaction** across production deployments
+
+**Tech Stack:** Python, LangChain, LangGraph, Llama 3, Hugging Face PEFT, Pinecone, pgvector, FastAPI, React, PostgreSQL, AWS (EKS, S3, VPC), Docker, Kubernetes, Redis, Prometheus, Sentence Transformers
+
+### 🔷 **ML Engineer** @ Cotiviti Holdings | *March 2021 – July 2023*
+
+**Developed ML systems for healthcare payment integrity processing 5B+ claims monthly**
+
+- Built probability scoring models for Clinical Chart Validation, enabling **42% prepay review migration** with **45% program value growth**
+- Developed anomaly detection pipelines for FWA Pattern Review, contributing to **$15B+ in flagged claims annually**
+- Engineered NLP extraction models using spaCy and Hugging Face Transformers, automating DRG validation and **reducing manual review time by 60%**
+- Designed HCC risk adjustment models predicting members with highest probability of missing conditions, improving risk score capture rates by 25%
+
+**Tech Stack:** Python, scikit-learn, XGBoost, LightGBM, spaCy, Hugging Face Transformers, AWS (SageMaker, EKS, S3, Lambda, RDS), Azure ML Studio, PostgreSQL, Docker, MLflow, SHAP, PySpark, Airflow
+
+### 🔷 **Data Scientist** @ Experian | *December 2019 – March 2021*
+
+**Built data products for financial compliance and KYC screening systems**
+
+- Built DataSights analytics platform with config-driven ETL modules, improving **data accuracy from 78% to 96%** through automated validation
+- Developed risk scoring models achieving **85% precision** in identifying KYC anomalies while **reducing false positives by 30%**
+- Created feature engineering pipelines extracting 100+ derived attributes from raw financial data across 361 attributes
+- Deployed Perpetual KYC monitoring system on AWS using Lambda and Glue for continuous sanctions screening
+
+**Tech Stack:** Python, PySpark, Hugging Face Transformers, spaCy, Azure (ML Studio, AKS, DevOps), FastAPI, Docker, MLflow, Apache Airflow, Prometheus, Grafana
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-412991?style=flat&logo=llamaindex&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Technologies:** LangChain, LangGraph, LlamaIndex, AutoGen, OpenAI GPT-4, Anthropic Claude, Llama 3, Hugging Face Transformers, PEFT/LoRA/QLoRA, Sentence Transformers, spaCy, Prompt Engineering, RAG Architectures
+
+### **Vector Databases & Search**
+![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=flat&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat&logo=meta&logoColor=white)
+
+**Technologies:** Pinecone, pgvector, FAISS, ChromaDB, Weaviate, Elasticsearch
+
+### **Machine Learning & Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Technologies:** PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Keras, Pandas, NumPy, OpenCV
+
+### **MLOps & Model Governance**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+
+**Technologies:** MLflow, Weights & Biases, Azure ML Studio, AWS SageMaker, Model Versioning, A/B Testing, SHAP, Drift Detection, CI/CD, Jenkins, GitHub Actions
+
+### **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**AWS:** EKS, Lambda, S3, Glue, SageMaker, RDS, EventBridge, CloudFormation  
+**Azure:** ML Studio, AKS, DevOps, Blob Storage  
+**Containers & Orchestration:** Docker, Kubernetes, Helm, Terraform, ArgoCD, Prometheus, Grafana
+
+### **Data Engineering**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Technologies:** Apache Spark (PySpark), Apache Airflow, Kafka, AWS Glue, Snowflake, dbt, ETL/ELT Pipelines
+
+### **Full Stack & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Languages:** Python, SQL, Java, JavaScript, TypeScript, Bash, C++  
+**Frameworks:** React, Next.js, Redux, FastAPI, Flask, Spring Boot, NestJS, Node.js, GraphQL, REST APIs  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![AWS Certified Generative AI Developer](https://img.shields.io/badge/AWS-Certified%20GenAI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Data Scientist](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![NVIDIA GenAI](https://img.shields.io/badge/NVIDIA-GenAI%20Multimodal%20Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
+- ✅ **AWS Certified Generative AI Developer – Professional**
+- ✅ **Microsoft Azure Data Scientist Associate**
+- ✅ **NVIDIA-Certified Associate: Generative AI Multimodal**
+- ✅ **Oracle Cloud Infrastructure 2025 Foundations Associate**
+- ✅ **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
+- ✅ **Databricks Generative AI Fundamentals**
+
+---
+
+## 🔬 Current Projects
+
+### **Neural Drive** - AI-Native File Management Ecosystem
+*Inspired by Iron Man's interface. Building an intelligent file system where every document, image, and data point becomes AI-aware and conversationally accessible. Users can interact with their entire digital workspace through natural language, create dynamic workflows through voice commands, and experience truly hands-free computing.*
+
+**Vision:** The first step toward creating fully agentic computer systems that understand, anticipate, and collaborate with users in real-time.
+
+### **Professional Work**
+- **GenAI Explainability Engine** - Transforming ML model outputs into actionable natural-language insights
+- **Global Watchlist Compliance Copilot** - RAG-based system for sanctions/PEP screening with semantic search
+- **Multi-Agent Orchestration Systems** - LangGraph-powered autonomous compliance workflows
+
+---
+
+## 🌱 Currently Learning
+
+**Next-Gen Full-Stack Development & Advanced AI Systems**
+
+- **Frontend:** Next.js 15, React 19, Astro, SvelteKit, Bun, Vite 6
+- **Backend:** FastAPI, NestJS, Prisma ORM, tRPC, Supabase, PlanetScale
+- **AI Frameworks:** Vercel AI SDK, LangChain, LangGraph, CrewAI, AutoGen
+- **Vector Databases:** Pinecone, Chroma, Advanced RAG Architectures
+- **LLM APIs:** OpenAI GPT-4 Turbo, Claude API, Anthropic SDK, Hugging Face Transformers, LlamaIndex
+- **MLOps & Infrastructure:** Streamlit, Gradio, Docker Compose, Kubernetes, Terraform, AWS CDK, Serverless Framework
+- **Emerging Tech:** Edge Computing, WebAssembly (WASM), Rust for Performance, Go for Microservices
+
+---
+
+## 🤝 Looking to Collaborate
+
+I'm excited to collaborate on **groundbreaking AI projects** that push the boundaries of what's possible:
+
+- 🚀 **Intelligent automation systems** and conversational AI platforms
+- 🛠️ **Next-generation developer tools** and agentic computing solutions
+- 💡 **V0-stage products** that could redefine entire industries
+- 🤖 **AI-powered productivity tools** and revolutionary fintech solutions
+- 🌐 **Projects with the potential to change the world**
+
+Particularly interested in working with visionary founders and engineers on products at the V0 stage where I can shape solutions from conception to market impact.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jai-nayani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jai-nayani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=jai-nayani&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+- 🤖 **Building the Future of AI-Driven Software Engineering**
+- 🧠 **Agentic AI Systems** and LLM-Powered Development Tools
+- 🏗️ **AI-First Architecture Patterns** and Intelligent Microservices
+- 🧪 **Test-Driven Development** with AI Assistance
+- ⚙️ **Autonomous Code Generation** and AI-Native Applications
+- 📈 **Machine Learning Operations (MLOps)** and Model Governance
+- 🔍 **Context-Aware Computing** and Human-AI Collaboration
+- 🚀 **Scaling AI Products** from V0 to Enterprise
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open to exciting opportunities and meaningful conversations**
+
+📧 **Email:** [n.jaiadithya@gmail.com](mailto:n.jaiadithya@gmail.com)  
+💼 **LinkedIn:** [jai-adithya-ram-nayaniyani-20363b1a0](https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0)  
+📱 **Phone:** +1 (469) 437-5178  
+🌐 **Portfolio:** [jainayani.netlify.app](https://jainayani.netlify.app/)  
+👨‍💻 **GitHub:** [@jai-nayani](https://github.com/jai-nayani)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> *"I debug code faster than I debug my life decisions - and somehow both always lead to better solutions!"*
+
+---
+
+<div align="center">
+
+### 🚀 **Let's build the future of technology together!**
+
+**Available for:** Founding Engineer Roles | AI/ML Engineering | GenAI Specialist Positions | V0-Stage Product Development
+
+⭐ *If you find my work interesting, feel free to star my repositories!*
+
+</div>
