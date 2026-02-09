@@ -8,7 +8,7 @@
 **Currently:** AI/ML Engineer at **Socure** | Transforming financial compliance with GenAI  
 **Expertise:** LLMs • RAG • LangChain • Vector Databases • MLOps • Cloud-Native AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-adithya-ram-nayaniyani-20363b1a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaiadithyanayani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.jaiadithya@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jai-nayani.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jai-nayani)
