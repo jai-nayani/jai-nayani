@@ -35,45 +35,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🔷 **AI/ML Engineer** @ [Socure](https://www.socure.com/) | *July 2024 – Present*
-
-**Leading enterprise Generative AI initiatives for financial compliance and identity verification**
-
-- **Architected GenAI Explainability Engine** using LangChain and self-hosted LLMs (Llama 3), transforming fraud model risk scores into natural-language explanations for regulatory compliance
-- **Built RAG-based Global Watchlist Compliance Copilot** integrating vector search (Pinecone, pgvector) over 1,000+ sanctions/PEP lists, achieving **96% retrieval accuracy** and **sub-200ms query latency**
-- **Designed multi-agent orchestration** using LangGraph for complex compliance workflows with autonomous document retrieval and iterative reasoning
-- **Implemented LLM guardrails** with hallucination detection, output constraint enforcement, and factual grounding validation for auditability
-- **Applied LoRA fine-tuning** on Llama 3 using Hugging Face PEFT, reducing inference costs by 50% while improving entity extraction accuracy
-- **Established immutable audit logging** and evaluation pipelines achieving **94% analyst satisfaction** across production deployments
-
-**Tech Stack:** Python, LangChain, LangGraph, Llama 3, Hugging Face PEFT, Pinecone, pgvector, FastAPI, React, PostgreSQL, AWS (EKS, S3, VPC), Docker, Kubernetes, Redis, Prometheus, Sentence Transformers
-
-### 🔷 **ML Engineer** @ Cotiviti Holdings | *March 2021 – July 2023*
-
-**Developed ML systems for healthcare payment integrity processing 5B+ claims monthly**
-
-- Built probability scoring models for Clinical Chart Validation, enabling **42% prepay review migration** with **45% program value growth**
-- Developed anomaly detection pipelines for FWA Pattern Review, contributing to **$15B+ in flagged claims annually**
-- Engineered NLP extraction models using spaCy and Hugging Face Transformers, automating DRG validation and **reducing manual review time by 60%**
-- Designed HCC risk adjustment models predicting members with highest probability of missing conditions, improving risk score capture rates by 25%
-
-**Tech Stack:** Python, scikit-learn, XGBoost, LightGBM, spaCy, Hugging Face Transformers, AWS (SageMaker, EKS, S3, Lambda, RDS), Azure ML Studio, PostgreSQL, Docker, MLflow, SHAP, PySpark, Airflow
-
-### 🔷 **Data Scientist** @ Experian | *December 2019 – March 2021*
-
-**Built data products for financial compliance and KYC screening systems**
-
-- Built DataSights analytics platform with config-driven ETL modules, improving **data accuracy from 78% to 96%** through automated validation
-- Developed risk scoring models achieving **85% precision** in identifying KYC anomalies while **reducing false positives by 30%**
-- Created feature engineering pipelines extracting 100+ derived attributes from raw financial data across 361 attributes
-- Deployed Perpetual KYC monitoring system on AWS using Lambda and Glue for continuous sanctions screening
-
-**Tech Stack:** Python, PySpark, Hugging Face Transformers, spaCy, Azure (ML Studio, AKS, DevOps), FastAPI, Docker, MLflow, Apache Airflow, Prometheus, Grafana
-
----
-
 ## 🛠️ Technical Expertise
 
 ### **Generative AI & LLMs**
