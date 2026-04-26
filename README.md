@@ -176,8 +176,7 @@ Particularly interested in working with visionary founders and engineers on prod
 
 📧 **Email:** [n.jaiadithya@gmail.com](mailto:n.jaiadithya@gmail.com)  
 💼 **LinkedIn:** [jaiadithyanayani](https://www.linkedin.com/in/jaiadithyanayani)  
-📱 **Phone:** +1 (469) 437-5178  
-🌐 **Portfolio:** [jainayani.netlify.app](https://jainayani.netlify.app/)  
+📱 **Phone:** +1 (469) 437-5178 
 👨‍💻 **GitHub:** [@jai-nayani](https://github.com/jai-nayani)
 
 ---
